@@ -1,0 +1,59 @@
+*{text-align: center;}
+
+
+
+.instagramlogin{font-family: 'Pacifico', cursive; font-size: 50px; text-align: center;}
+
+#loginname{
+    width: 250px;
+    height: 50px;
+    border-radius: 5px;
+    margin-top: 10px;
+    padding: 0px 20px;
+    border: 1px solid #b5b2b2;
+    outline: none;
+    text-align: center;
+    background-color: #ccc;
+  }
+  #password{
+    width: 250px;
+    height: 50px;
+    border-radius: 5px;
+    margin-top: 10px;
+    padding: 0px 20px;
+    border: 1px solid #b5b2b2;
+    outline: none;
+    background-color: #ccc;
+    text-align: center;
+  }
+  #login{
+    width: 250px;
+    height: 50px;
+    border-radius: 0px;
+    margin-top: 10px;
+    padding: 0px 20px;
+    border: 1px solid rgb(255, 255, 255);
+    outline: none;
+    text-align: center;
+    background-color: rgb(160, 160, 254);
+    color: aliceblue;
+    margin-bottom: 50px;
+  }
+  #login:hover{
+    background-color: blue;
+  }
+  article{
+    outline: solid #ccc 1px;
+    border-radius: 15px;  
+    width: 30%;
+    height: 100%;
+    position: relative;
+    top: 100px;
+    left: 800px;
+}
+
+/* img{
+  position: relative;
+  top: 100px;
+  left: 400px;
+} */
